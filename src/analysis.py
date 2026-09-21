@@ -37,4 +37,4 @@ plt.xticks([0, 1], ['No Sobrevivió', 'Sobrevivió'])
 plt.savefig(os.path.join(OUTPUT_DIR, 'tarifa_vs_supervivencia.png'), bbox_inches='tight')
 plt.close()
 
-print("Análisis completado exitosamente.")
+print("Análisis completado exitosamente. TEAM ALE Y CHARBEL")
